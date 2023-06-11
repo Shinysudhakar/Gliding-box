@@ -2,6 +2,8 @@
 
 
 EXP 10 - GLIDING BOX
+
+
 AIM:
 To create a Gliding box animation using CSS animation.
 
@@ -129,11 +131,14 @@ CODE:
 </body>
 </html>
 OUTPUT:
+
 Gliding Animation:
+
 ![image](https://github.com/Shinysudhakar/Gliding-box/assets/127575325/0cadaddb-7dad-48f3-bb58-572f1268bc0d)
 
 
 On Cursor Hover:
+
 ![image](https://github.com/Shinysudhakar/Gliding-box/assets/127575325/aae80588-132f-4c1a-b449-4a4b379ae732)
 
 
