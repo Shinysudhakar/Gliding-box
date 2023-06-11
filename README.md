@@ -1,26 +1,25 @@
-# Gliding-box
+# EXP 10 - GLIDING BOX
 
+## AIM:
 
-EXP 10 - GLIDING BOX
-
-
-AIM:
 To create a Gliding box animation using CSS animation.
 
-ALGORITHM:
-Create a HTML container element that will hold the gliding box.
+## ALGORITHM:
 
-Apply CSS styles to the container and gliding box.
+1. Create a HTML container element that will hold the gliding box.
 
-In the CSS code above, we set the overflow: hidden; to ensure that the gliding box does not extend beyond the container's boundaries.
+2. Apply CSS styles to the container and gliding box.
 
-The @keyframes rule defines the animation itself. We define two keyframes, one at 0% representing the starting position and one at 100% representing the ending position.
+3. In the CSS code above, we set the overflow: hidden; to ensure that the gliding box does not extend beyond the container's boundaries.
 
-Customize the styles and dimensions of the container and gliding box as desired to fit your design.
+4. The @keyframes rule defines the animation itself. We define two keyframes, one at 0% representing the starting position and one at 100% representing the ending position. 
 
-Test the gliding box animation in different web browsers to ensure compatibility.
+5. Customize the styles and dimensions of the container and gliding box as desired to fit your design.
 
-CODE:
+6. Test the gliding box animation in different web browsers to ensure compatibility.
+
+## CODE:
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -130,17 +129,16 @@ CODE:
     </div>
 </body>
 </html>
-OUTPUT:
+```
 
-Gliding Animation:
+## OUTPUT:
+### Gliding Animation:
 
-![image](https://github.com/Shinysudhakar/Gliding-box/assets/127575325/0cadaddb-7dad-48f3-bb58-572f1268bc0d)
+![image](https://github.com/Aashima02/Gliding-Box/assets/93427086/f8baee55-ad4e-4153-94ea-b603f4b260b7)
+
+### On Cursor Hover:
+![image](https://github.com/Aashima02/Gliding-Box/assets/93427086/d864081f-0307-4e04-99c6-cd63a25cba8b)
 
 
-On Cursor Hover:
-
-![image](https://github.com/Shinysudhakar/Gliding-box/assets/127575325/aae80588-132f-4c1a-b449-4a4b379ae732)
-
-
-RESULT:
+## RESULT:
 So, a gliding box is created using CSS animation.
